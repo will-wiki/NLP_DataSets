@@ -1,4 +1,5 @@
 # NLP_DataSets
+## 中文文本相似度数据集
 | 数据 |  原始数据/项目地址 | 百度云链接|	原始数据描述|
 | :-----: | :-------: | :-------: | :-----: |
 |B.Q|[地址](http://icrc.hitsz.edu.cn/info/1037/1162.htm)|[百度云盘](https://pan.baidu.com/s/1okb0M-nqj-PS8JtBXlFqJg)<br> 提取码:aj3l|大规模在线银行客户服务领域相似问题对数据集|
