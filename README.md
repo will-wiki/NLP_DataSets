@@ -1,9 +1,9 @@
 # NLP_DataSets
 ## 中文文本相似度数据集
-| 数据 |  原始数据/项目地址 | 百度云链接|	原始数据描述|
-| :-----: | :-------: | :-------: | :-----: |
-|B.Q|[地址](http://icrc.hitsz.edu.cn/info/1037/1162.htm)|[百度云盘](https://pan.baidu.com/s/1okb0M-nqj-PS8JtBXlFqJg)<br> 提取码:aj3l|大规模在线银行客户服务领域相似问题对数据集|
-|LCQMC	|[地址](https://aclanthology.org/C18-1166.pdf) |[百度云盘](https://pan.baidu.com/s/1MR0mifvJ9BxxSkfbgHg-4w)<br> 提取码:uadw|哈工大发表的一个中文问答匹配数据集|
+| 数据 |  原始数据/项目地址 |百度云链接 ······|	原始数据描述|
+| :-----: | :-----: | :-----: | :-----: |
+|B.Q|[地址](http://icrc.hitsz.edu.cn/info/1037/1162.htm)|[百度云盘](https://pan.baidu.com/s/1okb0M-nqj-PS8JtBXlFqJg)<br>提取码:aj3l|大规模在线银行客户服务领域相似问题对数据集|
+|LCQMC	|[地址](https://aclanthology.org/C18-1166.pdf) |[百度云盘](https://pan.baidu.com/s/1MR0mifvJ9BxxSkfbgHg-4w)<br>提取码:uadw|哈工大发表的一个中文问答匹配数据集|
 |ATEC |[地址](https://github.com/IceFlameWorm/NLP_Datasets/tree/master/ATEC) |[百度云盘](https://pan.baidu.com/s/1j8l1a6tfa0Qa3TZPcUrHWg)<br> 提取码:kk9k|蚂蚁金服客服业务相似问题|
 |PAWSX	|[地址](https://github.com/google-research-datasets/paws) |[百度云盘](https://pan.baidu.com/s/1NynqV_nH3PYVFVDFKkTDhA)<br> 提取码:830g|多语言释义识别对抗性数据集|
 |AFQMC	|[地址](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106411) |[百度云盘](https://pan.baidu.com/s/19e_cbwM5J62I2BOuJKuwAA)<br>提取码:7jp6	|蚂蚁金融语义相似度数据集
